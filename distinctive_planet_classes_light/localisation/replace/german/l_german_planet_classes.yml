@@ -1,0 +1,33 @@
+﻿l_german:
+ ####################################
+ # Planet Classes
+ ####################################
+
+ pc_desert:0 "Wüstenwelt"
+ pc_desert_desc:0 "Mehr £energy£  Energieproduktion, weniger £minerals£ Mineralien und £food£. Trockene, felsige Welt mit einer Stickstoff-Sauerstoff-Atmosphäre. Niederschläge und größere Oberflächengewässer sind relativ selten. Deutliche Temperaturunterschiede zwischen Tag und Nacht. Spärliche Vegetation mit moderaten Lebenszeichen."
+ pc_arid:0 "Aride Welt"
+ pc_arid_desc:0 "Mehr £energy£ Generatordisktrike. Trockene, felsige Welt mit einer Stickstoff-Sauerstoff-Atmosphäre. Das staubüberzogene Gelände besteht größtenteils aus Tafelbergen und Schluchten. Die Wälder befinden sich in den eher gemäßigten Polarregionen, ansonsten ist die Vegetation aber spärlich. Mäßige Lebenszeichen erkannt."
+ pc_tundra:0 "Tundrawelt"
+ pc_tundra_desc:0 "Mehr £minerals£ Bergbaudistrikte. Kalte und felsige Welt mit einer Stickstoff-Sauerstoff-Atmosphäre. Bis auf die eher gemäßigten Äquatorialregionen ist die gesamte Oberfläche von Permafrost bedeckt. Es gibt eine stabile Biosphäre, aber die Vegetation ist hauptsächlich auf Moose und Flechten begrenzt."
+ pc_continental:0 "Kontinentale Welt"
+ pc_continental_desc:0 "Mehr £minerals£ Mineralien und £food£ Nahrung, weniger £energy£ Energie. Felsige Welt mit einer Stickstoff-Sauerstoff-Atmosphäre. Aktive und stabile Hydrosphäre. Die Kontinente sind von riesigen Ozeanen getrennt, und abhängig von Temperaturen und Niederschlägen gibt es große Klimaschwankungen. Umfangreiche Biosphäre."
+ pc_tropical:0 "Tropische Welt"
+ pc_tropical_desc:0 "Mehr £food£ Nahrung, weniger £minerals£ Mineralien und £energy£  Energie. Feuchte, felsige Welt mit einer Stickstoff-Sauerstoff-Atmosphäre. Jahreszeiten mit starken Niederschlägen wechseln sich mit trockeneren Perioden ab. Die meisten Kontinente sind mit dichter Vegetation überzogen, und es gibt reichlich Lebenszeichen."
+ pc_ocean:0 "Ozeanwelt"
+ pc_ocean_desc:0 "Mehr £food£ Agrikulturdistrikte. Felsige Welt mit einer Stickstoff-Sauerstoff-Atmosphäre und einer umfangreichen Hydrosphäre. Ozeane bedecken mehr als §Y95%§! der Oberfläche, der Rest sind weit verstreute Inseln. Hier gibt es viele Lebenszeichen, hauptsächlich aquatische."
+ pc_arctic:0 "Arktische Welt"
+ pc_arctic_desc:0 "Mehr £minerals£ Mineralien und £energy£ Energie, weniger £food£ Nahrung. Eisige, felsige Welt mit einer Stickstoff-Sauerstoff-Atmosphäre. Das permanent gefrorene Gletschereis stellt eine enorme Wassermenge dar. Hier gibt es einige Lebenszeichen und Vegetation, meistens auf die leicht wärmeren Äquatorialregionen konzentriert."
+ pc_alpine:0 "Alpinwelt"
+ pc_alpine_desc:1 "Mehr minerals£ Mineralien, weniger £food£ Nahrung und £energy£ Energie. Gebirgswelt mit einer Stickstoff-Sauerstoff-Atmosphäre. Die Gipfel sind schneebedeckt und in den Tälern finden sich zugefrorene Seen. Auf dem Planeten gibt es kaum saisonale Schwankungen, und das flüssige Wasser unter der gefrorenen Oberfläche reicht aus, um eine spärliche winterharte Vegetation am Leben zu erhalten."
+ pc_savannah:0 "Savannenwelt"
+ pc_savannah_desc:1 "Mehr £food£ Nahrung und £energy£ Energie, weniger £minerals£ Mineralien. Felsige Welt mit Stickstoff-Sauerstoff-Atmosphäre, die von trockenen Ebenen dominiert wird. Die geringe Hydrosphäre ermöglicht kurze Regenzeiten, doch abgesehen von einigen allgegenwärtigen Gräsern konzentriert sich die Vegetation größtenteils um flache Oasen."
+
+ pc_desert_adj:0 "wüstenähnlich"
+ pc_arid_adj:0 "arid"
+ pc_savannah_adj:0 "savannenähnlich"
+ pc_tropical_adj:0 "tropisch"
+ pc_continental_adj:0 "gemäßigt"
+ pc_ocean_adj:0 "ozeanisch"
+ pc_tundra_adj:0 "tundraähnlich"
+ pc_arctic_adj:0 "arktisch"
+ pc_alpine_adj:0 "alpin"
